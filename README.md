@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramahasani
 - 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🌱 I’m a Data Scientist
 - 📫 How to reach me ramahasani13@gmail.com
 
 <!---
